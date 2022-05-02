@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AkibsTool" parent="Theme.MaterialComponents.Light.NoActionBar" />
+
+    <style name="CalenderViewCustom" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="colorAccent">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/purple_700</item>
+        <item name="colorSurface">@color/white</item>
+    </style>
+</resources>
